@@ -10,7 +10,7 @@
  * 3. list objects that maximmize profit and show maximimum profit as output considering capacity.
  * 
  * @author - Eric Schenck
- * last modified: january 25, 2018
+ * last modified: january 24, 2018
  *   
  */
 
